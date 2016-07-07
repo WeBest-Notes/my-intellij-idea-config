@@ -1,0 +1,8 @@
+com.intellij.plugins.watcher
+com.paperetto.dash
+mobi.hsz.idea.gitignore
+com.dmarcotte.handlebars
+com.jetbrains.php
+org.intellij.plugins.markdown
+NodeJS
+org.jetbrains.plugins.phpstorm-remote-interpreter
